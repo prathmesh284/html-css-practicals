@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(228, 168, 168);
+}
+.container{
+    margin: auto;
+    margin-top: 50px;
+    width: 50%;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.box{
+    width: 20%;
+    height: 30%;
+    border: 1px solid red;
+    background-color: red;
+}
